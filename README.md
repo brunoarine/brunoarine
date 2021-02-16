@@ -2,7 +2,7 @@
 
 <img src="img/header.png">
 
-I'm a physicist by profession, a problem solver by nature, and I want to get serious about solving back-end and mobile development!
+I'm a physicist by profession, a problem solver by nature, and I want to get serious about back-end and mobile development!
 
 I have 10 years of experience as Physicist (Radiometry Specialist), and during this time I have used Python extensively to test and develop analysis algorithms, and implement UX tools to help the laboratory team with their routine tasks. In my masters thesis, I used machine learning (SciPy and Scikit-learn) to improve peak detection rates of gamma-ray spectrometry systems. Now I want to expand my horizons.
 
