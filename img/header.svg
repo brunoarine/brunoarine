@@ -92,7 +92,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1190,7 +1190,7 @@
          x="19.582846"
          y="-48.20565"
          id="text4829"
-         transform="matrix(0.85472051,0,0,1.0470232,-16.835817,2.6284399)"><tspan
+         transform="matrix(0.85472051,0,0,1.0470232,-14.409528,-2.6593349)"><tspan
            sodipodi:role="line"
            id="tspan4827"
            x="19.582846"
@@ -1202,19 +1202,34 @@
          x="19.461176"
          y="-40.82048"
          id="text4865"
-         transform="matrix(1.2623934,0,0,1.2623934,2.3007125,19.21961)"><tspan
+         transform="matrix(1.2623934,0,0,1.2623934,4.7270017,10.227666)"><tspan
            sodipodi:role="line"
            id="tspan4863"
            x="19.461176"
            y="-40.82048"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'TerminessTTF Nerd Font';-inkscape-font-specification:'TerminessTTF Nerd Font';text-align:start;text-anchor:start;fill:#217f74;fill-opacity:1;stroke-width:0.362852">'developer'  'physicist'  'free software zealot'</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'TerminessTTF Nerd Font';-inkscape-font-specification:'TerminessTTF Nerd Font';text-align:start;text-anchor:start;fill:#217f74;fill-opacity:1;stroke-width:0.362852">'developer'  </tspan><tspan
+           sodipodi:role="line"
+           x="19.461176"
+           y="-34.082943"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'TerminessTTF Nerd Font';-inkscape-font-specification:'TerminessTTF Nerd Font';text-align:start;text-anchor:start;fill:#217f74;fill-opacity:1;stroke-width:0.362852"
+           id="tspan1024">'physicist'</tspan><tspan
+           sodipodi:role="line"
+           x="19.461176"
+           y="-27.345407"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'TerminessTTF Nerd Font';-inkscape-font-specification:'TerminessTTF Nerd Font';text-align:start;text-anchor:start;fill:#217f74;fill-opacity:1;stroke-width:0.362852"
+           id="tspan1028">'problem solver'</tspan><tspan
+           sodipodi:role="line"
+           x="19.461176"
+           y="-20.607872"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'TerminessTTF Nerd Font';-inkscape-font-specification:'TerminessTTF Nerd Font';text-align:start;text-anchor:start;fill:#217f74;fill-opacity:1;stroke-width:0.362852"
+           id="tspan1026">'free software zealot'</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.32185px;line-height:1.2;font-family:Chilanka;-inkscape-font-specification:Chilanka;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#819502;fill-opacity:1;stroke-width:0.362852;filter:url(#filter5309)"
          x="6.4652462"
          y="-41.138752"
          id="text4865-4"
-         transform="matrix(1.2623934,0,0,1.2623934,2.3007125,19.21961)"><tspan
+         transform="matrix(1.2623934,0,0,1.2623934,4.7270017,10.227666)"><tspan
            sodipodi:role="line"
            id="tspan4863-1"
            x="6.4652462"
@@ -1226,22 +1241,37 @@
          x="17.755466"
          y="-40.373344"
          id="text4865-49"
-         transform="matrix(1.2459003,0,0,1.2791049,2.3007125,19.21961)"><tspan
+         transform="matrix(1.2459003,0,0,1.2791049,4.991585,10.227666)"><tspan
            sodipodi:role="line"
            id="tspan4863-8"
            x="17.755466"
            y="-40.373344"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.43061px;font-family:'TerminessTTF Nerd Font Mono';-inkscape-font-specification:'TerminessTTF Nerd Font Mono';text-align:start;text-anchor:start;fill:#b8c4c4;fill-opacity:1;stroke-width:0.372379">[          ,            ,                       ]</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.43061px;font-family:'TerminessTTF Nerd Font Mono';-inkscape-font-specification:'TerminessTTF Nerd Font Mono';text-align:start;text-anchor:start;fill:#b8c4c4;fill-opacity:1;stroke-width:0.372379">[          ,  </tspan><tspan
+           sodipodi:role="line"
+           x="17.755466"
+           y="-33.458904"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.43061px;font-family:'TerminessTTF Nerd Font Mono';-inkscape-font-specification:'TerminessTTF Nerd Font Mono';text-align:start;text-anchor:start;fill:#b8c4c4;fill-opacity:1;stroke-width:0.372379"
+           id="tspan1020">           ,</tspan><tspan
+           sodipodi:role="line"
+           x="17.755466"
+           y="-26.544464"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.43061px;font-family:'TerminessTTF Nerd Font Mono';-inkscape-font-specification:'TerminessTTF Nerd Font Mono';text-align:start;text-anchor:start;fill:#b8c4c4;fill-opacity:1;stroke-width:0.372379"
+           id="tspan1030">                ,</tspan><tspan
+           sodipodi:role="line"
+           x="17.755466"
+           y="-19.630026"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.43061px;font-family:'TerminessTTF Nerd Font Mono';-inkscape-font-specification:'TerminessTTF Nerd Font Mono';text-align:start;text-anchor:start;fill:#b8c4c4;fill-opacity:1;stroke-width:0.372379"
+           id="tspan1032">                      ]</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.70278px;line-height:1.2;font-family:Chilanka;-inkscape-font-specification:Chilanka;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8da3a7;fill-opacity:1;stroke-width:0.567741"
-         x="-13.824618"
-         y="-48.331482"
+         x="-11.398329"
+         y="-53.619255"
          id="text5321"><tspan
            sodipodi:role="line"
            id="tspan5319"
-           x="-13.824618"
-           y="-48.331482"
+           x="-11.398329"
+           y="-53.619255"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.70278px;font-family:'TerminessTTF Nerd Font Mono';-inkscape-font-specification:'TerminessTTF Nerd Font Mono';text-align:start;text-anchor:start;fill:#8da3a7;fill-opacity:1;stroke-width:0.567741">def                       :</tspan></text>
     </g>
   </g>
