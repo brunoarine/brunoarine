@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Bruno 👋
 
+<img src="img/header.png">
 <!--
 **brunoarine/brunoarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
