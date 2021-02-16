@@ -8,8 +8,9 @@ I’m a physicist and aspiring back-end/mobile developer. I have 10 years of exp
 - 👯 I’m looking to collaborate on development projects, either mobile or back-end.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). Also, I like to photograph things, and lift heavy things.
-- 📫 You can find me on:
-  - [my website](https://brunoarine.com)
+- 📫 You can find out more about me on:
+  - [My website](https://brunoarine.com)
+  - [Linkedin](https://www.linkedin.com/in/bruno-arine)
   - [Twitter](https://twitter.com/brunoarine)
   - [Goodreads](https://www.goodreads.com/brunoarine)
   - [Instagram](https://instagram.com/brunoarine) 
