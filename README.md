@@ -13,7 +13,9 @@ I have 10 years of experience as a physicist (radiometry specialist), and during
 ##### More about me ️🧔🏻
 
 😄 Pronouns: he/him
+
 ⚡ Fun fact: I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). Also, I like to photograph things, and lift heavy things.
+
 📫 You can find out more about me on:
 
 - [My website](https://brunoarine.com)
