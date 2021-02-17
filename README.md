@@ -9,12 +9,16 @@ I have 10 years of experience as a physicist (radiometry specialist), and during
 - I'm currently working on my Software Engineering certificate 🎓
 - I’m currently learning Kotlin 🌱
 - I’m looking to collaborate on development projects where I can solve problems and optimize solutions 👯
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). Also, I like to photograph things, and lift heavy things.
-- 📫 You can find out more about me on:
-  - [My website](https://brunoarine.com)
-  - [My public notes](https://notes.brunoarine.com)
-  - [Linkedin](https://www.linkedin.com/in/bruno-arine)
-  - [Twitter](https://twitter.com/brunoarine)
-  - [Goodreads](https://www.goodreads.com/brunoarine)
-  - [Instagram](https://instagram.com/brunoarine)
+
+##### More about me 🧔🏻‍♂️
+
+😄 Pronouns: he/him
+⚡ Fun fact: I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). Also, I like to photograph things, and lift heavy things.
+📫 You can find out more about me on:
+
+- [My website](https://brunoarine.com)
+- [My public notes](https://notes.brunoarine.com)
+- [Linkedin](https://www.linkedin.com/in/bruno-arine)
+- [Twitter](https://twitter.com/brunoarine)
+- [Goodreads](https://www.goodreads.com/brunoarine)
+- [Instagram](https://instagram.com/brunoarine)
