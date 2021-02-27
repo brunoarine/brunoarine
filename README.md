@@ -10,7 +10,7 @@ Solving laboratory problems with code has always been my thing. Now, I want to e
 
 - I'm currently working on my Software Engineering certificate 🎓
 - I’m currently learning Kotlin 🌱
-- I’m looking to collaborate on development projects where I can solve problems and optimize solutions 👯
+- I’m looking to collaborate on development projects where I can solve problems and optimize solutions 📈
 - Pronouns: he/him ️🧔🏻
 - Fun fact ⚡ I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). Also, I like to photograph things, and lift heavy things.
 
