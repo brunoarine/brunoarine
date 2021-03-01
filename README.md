@@ -9,7 +9,7 @@ I have ten years of experience as the lead physicist of a radiometry laboratory.
 🎓 Working on my Software Engineering certificate   
 🌱 Currently learning Kotlin for Android apps development  
 📈 Looking to collaborate on development projects where I can solve problems and optimize solutions  
-🧔🏻 Pronouns: he/him   ️
+🧔🏻 Pronouns: he/him  
 ⚡ Fun fact: I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). I also like to photograph things, and lift heavy things.  
 
 You can find out more about me on:
