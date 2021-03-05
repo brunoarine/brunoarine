@@ -4,8 +4,6 @@
 
 I'm a physicist by profession, a problem solver by nature, and crazy about software development.
 
-I have ten years of experience as the lead physicist of a radiometry laboratory. During this time, I have used Python to test and develop new spectrum analysis algorithms, analyze environmental data, and improve UX with graphical tools in Qt to help my laboratory team with our routine tasks. In my master's thesis, I used machine learning tools (Scikit-learn) to improve peak detection on gamma-ray spectrometry systems.
-
 🎓 Working on my Software Engineering certificate   
 🌱 Currently learning Kotlin for Android apps development  
 📈 Looking to collaborate on development projects where I can solve problems and optimize solutions  
