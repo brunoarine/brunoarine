@@ -4,8 +4,8 @@
 
 I'm a physicist by profession, a problem solver by nature, and crazy about software development.
 
-🎓 Working on my Software Engineering certificate   
-🌱 Currently learning Kotlin for Android apps development  
+🎓 Working on my Data Science nanodegree
+🌱 Currently learning Kotlin for Android as a side project
 📈 Looking to collaborate on development projects where I can solve problems and optimize solutions  
 🧔🏻 Pronouns: he/him  
 ⚡ Fun fact: I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). I also like to photograph things, and lift heavy things.  
