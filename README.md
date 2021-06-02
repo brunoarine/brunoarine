@@ -4,9 +4,8 @@ I'm a physicist by profession, a problem solver by nature, and crazy about data 
 
 ### Currently
 
-🎓 Working on my Data Science nanodegree on [Udacity](https://www.udacity.com)
+🎓 Working on my Data Science nanodegree on [Udacity](https://www.udacity.com)  
 🌱 Learning a bit of Kotlin for Android as a side project  
-
 📈 Looking to collaborate on development projects where I can solve problems and optimize solutions  
 🧔🏻 Pronouns: he/him  
 ⚡ Fun fact: I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). I'm also into [photography](https://www.flickr.com/photos/)soldeace) and [amateur radio](https://www.qrz.com/db/PU2YOZ)!
