@@ -4,7 +4,6 @@ I'm a physicist by profession, a problem solver by nature, and crazy about data 
 
 ### Currently
 
-<<<<<<< HEAD
 🎓 Working on my Data Science nanodegree on [Udacity](https://www.udacity.com)
 🌱 Learning a bit of Kotlin for Android as a side project  
 
@@ -14,5 +13,4 @@ I'm a physicist by profession, a problem solver by nature, and crazy about data 
 
 ### Find me elsewhere
 
-<<<<<<< HEAD
 [My website](https://brunoarine.com) | [My public notes](https://notes.brunoarine.com) | [Linkedin](https://www.linkedin.com/in/bruno-arine) | [Twitter](https://twitter.com/brunoarine) | [Goodreads](https://www.goodreads.com/brunoarine) | [Instagram](https://instagram.com/brunoarine)
