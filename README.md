@@ -8,7 +8,7 @@ I'm a physicist by profession, a problem solver by nature, and crazy about data 
 🌱 Learning a bit of Kotlin for Android as a side project  
 📈 Looking to collaborate on development projects where I can solve problems and optimize solutions  
 🧔🏻 Pronouns: he/him  
-⚡ Fun fact: I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). I'm also into [photography](https://www.flickr.com/photos/)soldeace) and [amateur radio](https://www.qrz.com/db/PU2YOZ)!
+⚡ Fun fact: I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). I'm also into [photography](https://www.flickr.com/photos/soldeace) and [amateur radio](https://www.qrz.com/db/PU2YOZ).
 
 ### Find me elsewhere
 
