@@ -4,7 +4,7 @@ Data scientist, machine learning engineer, and crazy about physics and nature.
 
 ### Currently
 
-👨‍💻 Working at Globant, creating models and putting them in production at Disney Parks
+👨‍💻 Working at Globant, creating models and putting them in production at Disney Parks  
 📈 Looking to collaborate on development projects where I can solve problems and optimize solutions  
 🧔🏻 Pronouns: he/him  
 ⚡ Fun fact: I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). I'm also into [photography](https://www.flickr.com/photos/soldeace) and [amateur radio](https://www.qrz.com/db/PU2YOZ).
