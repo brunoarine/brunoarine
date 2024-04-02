@@ -6,4 +6,8 @@
 
 ### Find me elsewhere
 
-[My website](https://brunoarine.com) | [My public notes](https://notes.brunoarine.com) | [Linkedin](https://www.linkedin.com/in/bruno-arine) | [Mastodon](https://hachyderm.io/@brunoarine) | [Goodreads](https://www.goodreads.com/brunoarine) | [Instagram](https://instagram.com/brunoarine)
+[My website](https://brunoarine.com) | 
+[Linkedin](https://www.linkedin.com/in/bruno-arine) | 
+[Mastodon](https://hachyderm.io/@brunoarine) | 
+[Goodreads](https://www.goodreads.com/brunoarine) | 
+[Instagram](https://instagram.com/brunoarine)
