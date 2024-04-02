@@ -1,7 +1,3 @@
-<img src="img/header.png">
-
-Data scientist, machine learning engineer, and crazy about physics and nature.
-
 ### Currently
 
 👨‍💻 Working at Globant as a data scientist/machine learning engineer  
