@@ -2,12 +2,11 @@
 
 👨‍💻 Working at Globant as a data scientist/machine learning engineer  
 🧔🏻 Pronouns: he/him  
-⚡ Fun fact: I draw a webcomic called [Nebulosa Bar](https://www.nebulosabar.com.br). I'm also into [photography](https://www.flickr.com/photos/soldeace) and [amateur radio](https://www.qrz.com/db/PU2YOZ).
+⚡ Facts: I'm take [photography](https://www.flickr.com/photos/soldeace) kinda seriously and I'm a licensed [ham radio operator](https://www.qrz.com/db/PU2YOZ).
 
 ### Find me elsewhere
 
 [My website](https://brunoarine.com) | 
 [Linkedin](https://www.linkedin.com/in/bruno-arine) | 
 [Mastodon](https://hachyderm.io/@brunoarine) | 
-[Goodreads](https://www.goodreads.com/brunoarine) | 
-[Instagram](https://instagram.com/brunoarine)
+[Goodreads](https://www.goodreads.com/brunoarine)
